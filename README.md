@@ -1,4 +1,4 @@
 # HelloWorld
-"This file was created to list the best quotes that can be helpful go get motivation."
+"This file was created to list the best quotes that can be helpful to get motivation."
 
 Thank you :)
